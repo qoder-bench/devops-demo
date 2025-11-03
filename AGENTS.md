@@ -36,6 +36,7 @@
 * [markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to
   Markdown.
 * [Tokei](https://github.com/XAMPPRocky/tokei): Count your code quickly.
+* [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
 
 # Environment variables
 
