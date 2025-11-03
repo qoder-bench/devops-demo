@@ -1,6 +1,5 @@
 # DevOps CLI Toolbox
 
-
 # CLI Toolbox
 
 * Bash 5.3
@@ -11,13 +10,19 @@
 * [uv](https://github.com/astral-sh/uv): Python package and project manager
 * [Bun](https://bun.sh/): A fast all-in-one JavaScript runtime, package manager, and bundler
 * [DuckDB](https://github.com/duckdb/duckdb): an analytical in-process SQL database management system
-* [rsql](https://github.com/theseus-rs/rsql): Command line SQL interface for relational databases and common data file formats
-* [ImageMagick](https://github.com/ImageMagick/ImageMagick): software suite used for editing and manipulating digital images. It can be used to create, edit, compose, or convert bitmap images, and supports a wide range of file formats, including JPEG, PNG, GIF, TIFF, and PDF.
-* [FFmpeg 8.0](https://www.ffmpeg.org/): A complete, cross-platform solution to record, convert and stream audio and video.
-* [ripgrep](https://github.com/BurntSushi/ripgrep): rg recursively searches directories for a regex pattern while respecting your gitignore
+* [rsql](https://github.com/theseus-rs/rsql): Command line SQL interface for relational databases and common data file
+  formats
+* [ImageMagick](https://github.com/ImageMagick/ImageMagick): software suite used for editing and manipulating digital
+  images. It can be used to create, edit, compose, or convert bitmap images, and supports a wide range of file formats,
+  including JPEG, PNG, GIF, TIFF, and PDF.
+* [FFmpeg 8.0](https://www.ffmpeg.org/): A complete, cross-platform solution to record, convert and stream audio and
+  video.
+* [ripgrep](https://github.com/BurntSushi/ripgrep): rg recursively searches directories for a regex pattern while
+  respecting your gitignore
 * [ast-grep](https://github.com/ast-grep/ast-grep): A CLI tool for code structural search, lint and rewriting
 * [just](https://github.com/casey/just): A command runner
-* [JBang](https://github.com/jbangdev/jbang): JBang makes it easy to write and run Java scripts without traditional project setup
+* [JBang](https://github.com/jbangdev/jbang): JBang makes it easy to write and run Java scripts without traditional
+  project setup
 * [gum](https://github.com/charmbracelet/gum): a tool for glamorous shell scripts
 * [watchexec](https://github.com/watchexec/watchexec): Executes commands in response to file modifications
 * [await](https://github.com/slavaGanzin/await): run list of commands in parallel and waits for their termination
@@ -28,9 +33,18 @@
 * [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool.
 * [httpie](https://github.com/httpie/cli): A modern, user-friendly command-line HTTP client for the API era.
 * [tree](https://gitlab.com/OldManProgrammer/unix-tree): `tree --gitignore`
-* [markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+* [markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to
+  Markdown.
 * [Tokei](https://github.com/XAMPPRocky/tokei): Count your code quickly.
+
+# Environment variables
+
+* S3: `S3_ACCESS_KEY_ID`, `S3_SECRET_ACCESS_KEY`, `S3_ENDPOINT`,`S3_REGION`
+* MySQL: `MYSQL_URL`
+* PostgreSQL: `POSTGRESQL_URL`
+* OPENAI_API_KEY: `OPENAI_API_KEY`
 
 # Guideline
 
 * Please use above tools if possible
+* Please use environment variables for configuration.
