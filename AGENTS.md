@@ -29,6 +29,7 @@
 * [minisign](https://github.com/jedisct1/minisign): A simple tool for signing files and verifying signatures
 * [procs](https://github.com/dalance/procs): A modern replacement for ps
 * [jq](https://github.com/jqlang/jq): Command-line JSON processor
+* [yq](https://github.com/mikefarah/yq): a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
 * [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 * [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool.
 * [httpie](https://github.com/httpie/cli): A modern, user-friendly command-line HTTP client for the API era.
