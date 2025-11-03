@@ -33,6 +33,7 @@
 * [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 * [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool.
 * [httpie](https://github.com/httpie/cli): A modern, user-friendly command-line HTTP client for the API era.
+* [xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
 * [tree](https://gitlab.com/OldManProgrammer/unix-tree): `tree --gitignore`
 * [markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to
   Markdown.
