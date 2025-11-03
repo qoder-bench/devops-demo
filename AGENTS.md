@@ -37,6 +37,7 @@
   Markdown.
 * [Tokei](https://github.com/XAMPPRocky/tokei): Count your code quickly.
 * [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
+* [Difftastic](https://github.com/Wilfred/difftastic): a structural diff that understands syntax
 
 # Environment variables
 
