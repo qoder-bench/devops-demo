@@ -39,10 +39,7 @@
 
 # Environment variables
 
-* S3: `S3_ACCESS_KEY_ID`, `S3_SECRET_ACCESS_KEY`, `S3_ENDPOINT`,`S3_REGION`
-* MySQL: `MYSQL_URL`
-* PostgreSQL: `POSTGRESQL_URL`
-* OPENAI_API_KEY: `OPENAI_API_KEY`
+The project uses `.env` as configuration, please use environment variables for command line and script.
 
 # Guideline
 
